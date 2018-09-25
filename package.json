@@ -4,7 +4,7 @@
   "description": "Kibana Big Data Log Browser",
   "main": "index.js",
   "kibana": {
-    "version": "6.3.2"
+    "version": "6.4.1"
   },
   "scripts": {
     "lint": "eslint",
